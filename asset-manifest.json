@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-kitaplik/static/css/main.e6cc3f3b.css",
+    "main.js": "/mini-kitaplik/static/js/main.6e129153.js",
+    "static/js/453.af10ca07.chunk.js": "/mini-kitaplik/static/js/453.af10ca07.chunk.js",
+    "index.html": "/mini-kitaplik/index.html",
+    "main.e6cc3f3b.css.map": "/mini-kitaplik/static/css/main.e6cc3f3b.css.map",
+    "main.6e129153.js.map": "/mini-kitaplik/static/js/main.6e129153.js.map",
+    "453.af10ca07.chunk.js.map": "/mini-kitaplik/static/js/453.af10ca07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6cc3f3b.css",
+    "static/js/main.6e129153.js"
+  ]
+}
